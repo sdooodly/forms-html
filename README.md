@@ -1,3 +1,4 @@
 # forms-html
+[Live preview](https://sdooodly.github.io/forms-html/)
 ## Credits
-[html forms](https://internetingishard.netlify.app/html-and-css/forms/index.html)
+[Article](https://internetingishard.netlify.app/html-and-css/forms/index.html)
